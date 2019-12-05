@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/cloudbees/jx-tenant-service
   version: 0.0.283
   versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.283
+- host: github.com
+  owner: jenkins-x-bot-test
+  repo: bdd-spring-1575589054
+  url: https://github.com/jenkins-x-bot-test/bdd-spring-1575589054.git
+  version: ""
+  versionURL: ""
